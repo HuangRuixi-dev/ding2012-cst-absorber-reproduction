@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+.python/
+.mplconfig/
+run/
+复现结果/
+*.zip
+*.7z
+*.tmp

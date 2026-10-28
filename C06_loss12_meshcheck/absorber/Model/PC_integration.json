@@ -1,0 +1,54 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "P",
+         "type": "float",
+         "value": 11.0
+      },
+      {
+         "name": "Wl",
+         "type": "float",
+         "value": 10.0
+      },
+      {
+         "name": "Wt",
+         "type": "float",
+         "value": 2.5
+      },
+      {
+         "name": "N",
+         "type": "float",
+         "value": 40.0
+      },
+      {
+         "name": "H",
+         "type": "float",
+         "value": 10.0
+      },
+      {
+         "name": "tm",
+         "type": "float",
+         "value": 0.05
+      },
+      {
+         "name": "td",
+         "type": "float",
+         "value": 0.2
+      },
+      {
+         "name": "eps_r",
+         "type": "float",
+         "value": 4.4
+      },
+      {
+         "name": "loss_tan",
+         "type": "float",
+         "value": 0.12
+      }
+   ],
+   "outputVariables": []
+}

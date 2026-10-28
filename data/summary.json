@@ -1,0 +1,386 @@
+[
+  {
+    "case": "C01d_wide40",
+    "parameters": {
+      "name": "C01d_wide40",
+      "layers": 40,
+      "height": 10,
+      "bottom": 10,
+      "top": 2.5,
+      "loss": 0.02,
+      "period": 11,
+      "fmax": 26,
+      "modes": 2,
+      "law": "linear",
+      "strict": false,
+      "epsilon_r": 4.4,
+      "conductivity_Sm": 50000000.0,
+      "copper_fraction": 0.2,
+      "frequency_min_GHz": 5
+    },
+    "bands": [
+      {
+        "lower_GHz": 7.284201665599952,
+        "upper_GHz": 15.347567419804824,
+        "width_GHz": 8.06336575420487,
+        "RAB_percent": 71.2570521886858,
+        "right_censored": false,
+        "left_censored": false
+      },
+      {
+        "lower_GHz": 16.896031102607584,
+        "upper_GHz": 17.169163959718386,
+        "width_GHz": 0.27313285711080226,
+        "RAB_percent": 1.603588980547894,
+        "right_censored": false,
+        "left_censored": false
+      },
+      {
+        "lower_GHz": 17.68170997811423,
+        "upper_GHz": 18.044866123476275,
+        "width_GHz": 0.3631561453620442,
+        "RAB_percent": 2.0329748046909923,
+        "right_censored": false,
+        "left_censored": false
+      },
+      {
+        "lower_GHz": 18.618962119016537,
+        "upper_GHz": 19.051701678785253,
+        "width_GHz": 0.4327395597687165,
+        "RAB_percent": 2.2974883696844666,
+        "right_censored": false,
+        "left_censored": false
+      },
+      {
+        "lower_GHz": 19.676684498962153,
+        "upper_GHz": 20.125262278097093,
+        "width_GHz": 0.4485777791349399,
+        "RAB_percent": 2.2540494395791106,
+        "right_censored": false,
+        "left_censored": false
+      },
+      {
+        "lower_GHz": 21.337086206171254,
+        "upper_GHz": 26.0,
+        "width_GHz": 4.662913793828746,
+        "RAB_percent": 19.70089064426129,
+        "right_censored": true,
+        "left_censored": false
+      }
+    ],
+    "best": {
+      "lower_GHz": 7.284201665599952,
+      "upper_GHz": 15.347567419804824,
+      "width_GHz": 8.06336575420487,
+      "RAB_percent": 71.2570521886858,
+      "right_censored": false,
+      "left_censored": false
+    },
+    "passes_spec": false,
+    "exit_code": 0,
+    "broadband_converged": true,
+    "A_range": [
+      0.05534051563505116,
+      0.9999525669666227
+    ],
+    "max_cross_reflection": 0.0006967871591597011,
+    "max_T": 6.050000000000011e-129,
+    "samples": 2601,
+    "mesh_cells": "49499",
+    "last_mesh_delta": "0.00440583",
+    "solver_errors": [],
+    "warning_count": 1
+  },
+  {
+    "case": "C02_loss06",
+    "parameters": {
+      "name": "C02_loss06",
+      "layers": 40,
+      "height": 10,
+      "bottom": 10,
+      "top": 2.5,
+      "loss": 0.06,
+      "period": 11,
+      "fmax": 26,
+      "modes": 2,
+      "law": "linear",
+      "strict": false,
+      "epsilon_r": 4.4,
+      "conductivity_Sm": 50000000.0,
+      "copper_fraction": 0.2,
+      "frequency_min_GHz": 5
+    },
+    "bands": [
+      {
+        "lower_GHz": 7.259278785343364,
+        "upper_GHz": 15.748025102194342,
+        "width_GHz": 8.488746316850978,
+        "RAB_percent": 73.7917520309631,
+        "right_censored": false,
+        "left_censored": false
+      },
+      {
+        "lower_GHz": 16.88090969254478,
+        "upper_GHz": 26.0,
+        "width_GHz": 9.11909030745522,
+        "RAB_percent": 42.532168150530886,
+        "right_censored": true,
+        "left_censored": false
+      }
+    ],
+    "best": {
+      "lower_GHz": 7.259278785343364,
+      "upper_GHz": 15.748025102194342,
+      "width_GHz": 8.488746316850978,
+      "RAB_percent": 73.7917520309631,
+      "right_censored": false,
+      "left_censored": false
+    },
+    "passes_spec": false,
+    "exit_code": 0,
+    "broadband_converged": true,
+    "A_range": [
+      0.11522957665013223,
+      0.9993678561425913
+    ],
+    "max_cross_reflection": 1.982647304809918e-05,
+    "max_T": 3.920000000000001e-130,
+    "samples": 2601,
+    "mesh_cells": "49115",
+    "last_mesh_delta": "0.00357654",
+    "solver_errors": [],
+    "warning_count": 1
+  },
+  {
+    "case": "C03_loss04",
+    "parameters": {
+      "name": "C03_loss04",
+      "layers": 40,
+      "height": 10,
+      "bottom": 10,
+      "top": 2.5,
+      "loss": 0.04,
+      "period": 11,
+      "fmax": 26,
+      "modes": 2,
+      "law": "linear",
+      "strict": false,
+      "epsilon_r": 4.4,
+      "conductivity_Sm": 50000000.0,
+      "copper_fraction": 0.2,
+      "frequency_min_GHz": 5
+    },
+    "bands": [
+      {
+        "lower_GHz": 7.264792648964683,
+        "upper_GHz": 15.573601242192202,
+        "width_GHz": 8.30880859322752,
+        "RAB_percent": 72.76175927979527,
+        "right_censored": false,
+        "left_censored": false
+      },
+      {
+        "lower_GHz": 16.894419019451046,
+        "upper_GHz": 17.25966139083289,
+        "width_GHz": 0.3652423713818429,
+        "RAB_percent": 2.138792009588798,
+        "right_censored": false,
+        "left_censored": false
+      },
+      {
+        "lower_GHz": 17.54905469729275,
+        "upper_GHz": 20.417758167058672,
+        "width_GHz": 2.868703469765922,
+        "RAB_percent": 15.111636997370741,
+        "right_censored": false,
+        "left_censored": false
+      },
+      {
+        "lower_GHz": 20.808006538396725,
+        "upper_GHz": 26.0,
+        "width_GHz": 5.191993461603275,
+        "RAB_percent": 22.18421097401048,
+        "right_censored": true,
+        "left_censored": false
+      }
+    ],
+    "best": {
+      "lower_GHz": 7.264792648964683,
+      "upper_GHz": 15.573601242192202,
+      "width_GHz": 8.30880859322752,
+      "RAB_percent": 72.76175927979527,
+      "right_censored": false,
+      "left_censored": false
+    },
+    "passes_spec": false,
+    "exit_code": 0,
+    "broadband_converged": true,
+    "A_range": [
+      0.08153239815728908,
+      0.9999729374834474
+    ],
+    "max_cross_reflection": 0.00083052519458851,
+    "max_T": 1.458000000000001e-129,
+    "samples": 2601,
+    "mesh_cells": "48856",
+    "last_mesh_delta": "0.00534398",
+    "solver_errors": [],
+    "warning_count": 1
+  },
+  {
+    "case": "C04_loss12",
+    "parameters": {
+      "name": "C04_loss12",
+      "layers": 40,
+      "height": 10,
+      "bottom": 10,
+      "top": 2.5,
+      "loss": 0.12,
+      "period": 11,
+      "fmax": 26,
+      "modes": 2,
+      "law": "linear",
+      "strict": false,
+      "epsilon_r": 4.4,
+      "conductivity_Sm": 50000000.0,
+      "copper_fraction": 0.2,
+      "frequency_min_GHz": 5
+    },
+    "bands": [
+      {
+        "lower_GHz": 7.167691635966768,
+        "upper_GHz": 26.0,
+        "width_GHz": 18.83230836403323,
+        "RAB_percent": 113.55814912130715,
+        "right_censored": true,
+        "left_censored": false
+      }
+    ],
+    "best": {
+      "lower_GHz": 7.167691635966768,
+      "upper_GHz": 26.0,
+      "width_GHz": 18.83230836403323,
+      "RAB_percent": 113.55814912130715,
+      "right_censored": true,
+      "left_censored": false
+    },
+    "passes_spec": true,
+    "exit_code": 0,
+    "broadband_converged": true,
+    "A_range": [
+      0.19699486224205964,
+      0.9997750038848401
+    ],
+    "max_cross_reflection": 7.727350919036958e-06,
+    "max_T": 1.2800000000000006e-130,
+    "samples": 2601,
+    "mesh_cells": "51033",
+    "last_mesh_delta": "0.00398968",
+    "solver_errors": [],
+    "warning_count": 1
+  },
+  {
+    "case": "C05_loss12_refined",
+    "parameters": {
+      "name": "C05_loss12_refined",
+      "layers": 40,
+      "height": 10,
+      "bottom": 10,
+      "top": 2.5,
+      "loss": 0.12,
+      "period": 11,
+      "fmax": 26,
+      "modes": 2,
+      "law": "linear",
+      "strict": true,
+      "epsilon_r": 4.4,
+      "conductivity_Sm": 50000000.0,
+      "copper_fraction": 0.2,
+      "frequency_min_GHz": 5
+    },
+    "bands": [
+      {
+        "lower_GHz": 7.16130580490046,
+        "upper_GHz": 26.0,
+        "width_GHz": 18.838694195099542,
+        "RAB_percent": 113.61853062080341,
+        "right_censored": true,
+        "left_censored": false
+      }
+    ],
+    "best": {
+      "lower_GHz": 7.16130580490046,
+      "upper_GHz": 26.0,
+      "width_GHz": 18.838694195099542,
+      "RAB_percent": 113.61853062080341,
+      "right_censored": true,
+      "left_censored": false
+    },
+    "passes_spec": true,
+    "exit_code": 0,
+    "broadband_converged": true,
+    "A_range": [
+      0.196994888442248,
+      0.99983151999193
+    ],
+    "max_cross_reflection": 1.0917499829371838e-06,
+    "max_T": 6.480000000000001e-130,
+    "samples": 2601,
+    "mesh_cells": "51033",
+    "last_mesh_delta": "0.00398958",
+    "solver_errors": [],
+    "warning_count": 1
+  },
+  {
+    "case": "C06_loss12_meshcheck",
+    "parameters": {
+      "name": "C06_loss12_meshcheck",
+      "layers": 40,
+      "height": 10,
+      "bottom": 10,
+      "top": 2.5,
+      "loss": 0.12,
+      "period": 11,
+      "fmax": 26,
+      "modes": 2,
+      "law": "linear",
+      "strict": true,
+      "epsilon_r": 4.4,
+      "conductivity_Sm": 50000000.0,
+      "copper_fraction": 0.2,
+      "frequency_min_GHz": 5
+    },
+    "bands": [
+      {
+        "lower_GHz": 7.1604143695573175,
+        "upper_GHz": 26.0,
+        "width_GHz": 18.839585630442684,
+        "RAB_percent": 113.62696147571806,
+        "right_censored": true,
+        "left_censored": false
+      }
+    ],
+    "best": {
+      "lower_GHz": 7.1604143695573175,
+      "upper_GHz": 26.0,
+      "width_GHz": 18.839585630442684,
+      "RAB_percent": 113.62696147571806,
+      "right_censored": true,
+      "left_censored": false
+    },
+    "passes_spec": true,
+    "exit_code": 0,
+    "broadband_converged": true,
+    "A_range": [
+      0.19581840337274514,
+      0.9998790148822662
+    ],
+    "max_cross_reflection": 7.408890875636459e-08,
+    "max_T": 5.12e-130,
+    "samples": 2601,
+    "mesh_cells": "124082",
+    "last_mesh_delta": "0.00158252",
+    "solver_errors": [],
+    "warning_count": 1
+  }
+]

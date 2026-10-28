@@ -1,0 +1,1558 @@
+// Number 3D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+83
+
+// Obj3D_ID, MediaCode (0=Iso3D,1=LossyIso3D,2=PEC,3=Aniso3D,4=LossyAniso3D,5=SurfaceImp)
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+>> Material name:
+Vacuum
+
+1 0
+>> Material name:
+air_0
+
+2 1
+>> Material name:
+Dielectric_design
+
+3 1
+>> Material name:
+Dielectric_design
+
+4 1
+>> Material name:
+Dielectric_design
+
+5 1
+>> Material name:
+Dielectric_design
+
+6 1
+>> Material name:
+Dielectric_design
+
+7 1
+>> Material name:
+Dielectric_design
+
+8 1
+>> Material name:
+Dielectric_design
+
+9 1
+>> Material name:
+Dielectric_design
+
+10 1
+>> Material name:
+Dielectric_design
+
+11 1
+>> Material name:
+Dielectric_design
+
+12 1
+>> Material name:
+Dielectric_design
+
+13 1
+>> Material name:
+Dielectric_design
+
+14 1
+>> Material name:
+Dielectric_design
+
+15 1
+>> Material name:
+Dielectric_design
+
+16 1
+>> Material name:
+Dielectric_design
+
+17 1
+>> Material name:
+Dielectric_design
+
+18 1
+>> Material name:
+Dielectric_design
+
+19 1
+>> Material name:
+Dielectric_design
+
+20 1
+>> Material name:
+Dielectric_design
+
+21 1
+>> Material name:
+Dielectric_design
+
+22 1
+>> Material name:
+Dielectric_design
+
+23 1
+>> Material name:
+Dielectric_design
+
+24 1
+>> Material name:
+Dielectric_design
+
+25 1
+>> Material name:
+Dielectric_design
+
+26 1
+>> Material name:
+Dielectric_design
+
+27 1
+>> Material name:
+Dielectric_design
+
+28 1
+>> Material name:
+Dielectric_design
+
+29 1
+>> Material name:
+Dielectric_design
+
+30 1
+>> Material name:
+Dielectric_design
+
+31 1
+>> Material name:
+Dielectric_design
+
+32 1
+>> Material name:
+Dielectric_design
+
+33 1
+>> Material name:
+Dielectric_design
+
+34 1
+>> Material name:
+Dielectric_design
+
+35 1
+>> Material name:
+Dielectric_design
+
+36 1
+>> Material name:
+Dielectric_design
+
+37 1
+>> Material name:
+Dielectric_design
+
+38 1
+>> Material name:
+Dielectric_design
+
+39 1
+>> Material name:
+Dielectric_design
+
+40 1
+>> Material name:
+Dielectric_design
+
+41 1
+>> Material name:
+Dielectric_design
+
+42 5
+>> Material name:
+Copper_design
+
+43 5
+>> Material name:
+Copper_design
+
+44 5
+>> Material name:
+Copper_design
+
+45 5
+>> Material name:
+Copper_design
+
+46 5
+>> Material name:
+Copper_design
+
+47 5
+>> Material name:
+Copper_design
+
+48 5
+>> Material name:
+Copper_design
+
+49 5
+>> Material name:
+Copper_design
+
+50 5
+>> Material name:
+Copper_design
+
+51 5
+>> Material name:
+Copper_design
+
+52 5
+>> Material name:
+Copper_design
+
+53 5
+>> Material name:
+Copper_design
+
+54 5
+>> Material name:
+Copper_design
+
+55 5
+>> Material name:
+Copper_design
+
+56 5
+>> Material name:
+Copper_design
+
+57 5
+>> Material name:
+Copper_design
+
+58 5
+>> Material name:
+Copper_design
+
+59 5
+>> Material name:
+Copper_design
+
+60 5
+>> Material name:
+Copper_design
+
+61 5
+>> Material name:
+Copper_design
+
+62 5
+>> Material name:
+Copper_design
+
+63 5
+>> Material name:
+Copper_design
+
+64 5
+>> Material name:
+Copper_design
+
+65 5
+>> Material name:
+Copper_design
+
+66 5
+>> Material name:
+Copper_design
+
+67 5
+>> Material name:
+Copper_design
+
+68 5
+>> Material name:
+Copper_design
+
+69 5
+>> Material name:
+Copper_design
+
+70 5
+>> Material name:
+Copper_design
+
+71 5
+>> Material name:
+Copper_design
+
+72 5
+>> Material name:
+Copper_design
+
+73 5
+>> Material name:
+Copper_design
+
+74 5
+>> Material name:
+Copper_design
+
+75 5
+>> Material name:
+Copper_design
+
+76 5
+>> Material name:
+Copper_design
+
+77 5
+>> Material name:
+Copper_design
+
+78 5
+>> Material name:
+Copper_design
+
+79 5
+>> Material name:
+Copper_design
+
+80 5
+>> Material name:
+Copper_design
+
+81 5
+>> Material name:
+Copper_design
+
+82 5
+>> Material name:
+Copper_design
+
+// Number 2D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+459
+
+// Obj2D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=RHO,4=OHM,5=PORT,6=OPEN,7=EXPANDEDOPEN,8=PERIODIC,9=TANGENTIAL,10=NORMAL):
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+
+1 5
+1
+
+2 5
+2
+
+3 8
+
+4 8
+
+5 8
+
+6 8
+
+7 8
+
+8 8
+
+9 8
+
+10 8
+
+11 0
+
+12 0
+
+13 3
+Copper_design
+
+14 0
+
+15 0
+
+16 0
+
+17 0
+
+18 3
+Copper_design
+
+19 3
+Copper_design
+
+20 3
+Copper_design
+
+21 3
+Copper_design
+
+22 3
+Copper_design
+
+23 3
+Copper_design
+
+24 0
+
+25 0
+
+26 0
+
+27 0
+
+28 3
+Copper_design
+
+29 3
+Copper_design
+
+30 3
+Copper_design
+
+31 3
+Copper_design
+
+32 3
+Copper_design
+
+33 3
+Copper_design
+
+34 3
+Copper_design
+
+35 3
+Copper_design
+
+36 3
+Copper_design
+
+37 3
+Copper_design
+
+38 3
+Copper_design
+
+39 3
+Copper_design
+
+40 3
+Copper_design
+
+41 3
+Copper_design
+
+42 3
+Copper_design
+
+43 3
+Copper_design
+
+44 3
+Copper_design
+
+45 3
+Copper_design
+
+46 3
+Copper_design
+
+47 3
+Copper_design
+
+48 3
+Copper_design
+
+49 3
+Copper_design
+
+50 3
+Copper_design
+
+51 3
+Copper_design
+
+52 3
+Copper_design
+
+53 3
+Copper_design
+
+54 3
+Copper_design
+
+55 3
+Copper_design
+
+56 3
+Copper_design
+
+57 3
+Copper_design
+
+58 3
+Copper_design
+
+59 3
+Copper_design
+
+60 3
+Copper_design
+
+61 3
+Copper_design
+
+62 0
+
+63 0
+
+64 0
+
+65 0
+
+66 3
+Copper_design
+
+67 3
+Copper_design
+
+68 3
+Copper_design
+
+69 3
+Copper_design
+
+70 3
+Copper_design
+
+71 3
+Copper_design
+
+72 3
+Copper_design
+
+73 0
+
+74 0
+
+75 0
+
+76 0
+
+77 3
+Copper_design
+
+78 3
+Copper_design
+
+79 3
+Copper_design
+
+80 3
+Copper_design
+
+81 3
+Copper_design
+
+82 3
+Copper_design
+
+83 3
+Copper_design
+
+84 0
+
+85 0
+
+86 0
+
+87 0
+
+88 3
+Copper_design
+
+89 3
+Copper_design
+
+90 3
+Copper_design
+
+91 3
+Copper_design
+
+92 3
+Copper_design
+
+93 3
+Copper_design
+
+94 3
+Copper_design
+
+95 0
+
+96 0
+
+97 0
+
+98 0
+
+99 3
+Copper_design
+
+100 3
+Copper_design
+
+101 3
+Copper_design
+
+102 3
+Copper_design
+
+103 3
+Copper_design
+
+104 3
+Copper_design
+
+105 3
+Copper_design
+
+106 0
+
+107 0
+
+108 0
+
+109 0
+
+110 3
+Copper_design
+
+111 3
+Copper_design
+
+112 3
+Copper_design
+
+113 3
+Copper_design
+
+114 3
+Copper_design
+
+115 3
+Copper_design
+
+116 3
+Copper_design
+
+117 0
+
+118 0
+
+119 0
+
+120 0
+
+121 3
+Copper_design
+
+122 3
+Copper_design
+
+123 3
+Copper_design
+
+124 3
+Copper_design
+
+125 3
+Copper_design
+
+126 3
+Copper_design
+
+127 3
+Copper_design
+
+128 0
+
+129 0
+
+130 0
+
+131 0
+
+132 3
+Copper_design
+
+133 3
+Copper_design
+
+134 3
+Copper_design
+
+135 3
+Copper_design
+
+136 3
+Copper_design
+
+137 3
+Copper_design
+
+138 3
+Copper_design
+
+139 3
+Copper_design
+
+140 3
+Copper_design
+
+141 3
+Copper_design
+
+142 3
+Copper_design
+
+143 3
+Copper_design
+
+144 3
+Copper_design
+
+145 3
+Copper_design
+
+146 3
+Copper_design
+
+147 3
+Copper_design
+
+148 3
+Copper_design
+
+149 3
+Copper_design
+
+150 3
+Copper_design
+
+151 3
+Copper_design
+
+152 3
+Copper_design
+
+153 3
+Copper_design
+
+154 3
+Copper_design
+
+155 3
+Copper_design
+
+156 3
+Copper_design
+
+157 3
+Copper_design
+
+158 3
+Copper_design
+
+159 3
+Copper_design
+
+160 3
+Copper_design
+
+161 3
+Copper_design
+
+162 3
+Copper_design
+
+163 3
+Copper_design
+
+164 3
+Copper_design
+
+165 3
+Copper_design
+
+166 3
+Copper_design
+
+167 3
+Copper_design
+
+168 3
+Copper_design
+
+169 3
+Copper_design
+
+170 3
+Copper_design
+
+171 3
+Copper_design
+
+172 3
+Copper_design
+
+173 3
+Copper_design
+
+174 3
+Copper_design
+
+175 3
+Copper_design
+
+176 3
+Copper_design
+
+177 3
+Copper_design
+
+178 3
+Copper_design
+
+179 3
+Copper_design
+
+180 3
+Copper_design
+
+181 3
+Copper_design
+
+182 3
+Copper_design
+
+183 3
+Copper_design
+
+184 3
+Copper_design
+
+185 3
+Copper_design
+
+186 3
+Copper_design
+
+187 3
+Copper_design
+
+188 3
+Copper_design
+
+189 3
+Copper_design
+
+190 3
+Copper_design
+
+191 3
+Copper_design
+
+192 3
+Copper_design
+
+193 3
+Copper_design
+
+194 3
+Copper_design
+
+195 3
+Copper_design
+
+196 3
+Copper_design
+
+197 3
+Copper_design
+
+198 3
+Copper_design
+
+199 3
+Copper_design
+
+200 3
+Copper_design
+
+201 3
+Copper_design
+
+202 3
+Copper_design
+
+203 3
+Copper_design
+
+204 0
+
+205 0
+
+206 0
+
+207 0
+
+208 3
+Copper_design
+
+209 3
+Copper_design
+
+210 0
+
+211 0
+
+212 0
+
+213 0
+
+214 3
+Copper_design
+
+215 3
+Copper_design
+
+216 0
+
+217 0
+
+218 0
+
+219 0
+
+220 3
+Copper_design
+
+221 3
+Copper_design
+
+222 0
+
+223 0
+
+224 0
+
+225 0
+
+226 3
+Copper_design
+
+227 3
+Copper_design
+
+228 0
+
+229 0
+
+230 0
+
+231 0
+
+232 3
+Copper_design
+
+233 3
+Copper_design
+
+234 0
+
+235 0
+
+236 0
+
+237 0
+
+238 3
+Copper_design
+
+239 3
+Copper_design
+
+240 0
+
+241 0
+
+242 0
+
+243 0
+
+244 3
+Copper_design
+
+245 3
+Copper_design
+
+246 0
+
+247 0
+
+248 0
+
+249 0
+
+250 3
+Copper_design
+
+251 3
+Copper_design
+
+252 0
+
+253 0
+
+254 0
+
+255 0
+
+256 3
+Copper_design
+
+257 3
+Copper_design
+
+258 0
+
+259 0
+
+260 0
+
+261 0
+
+262 3
+Copper_design
+
+263 3
+Copper_design
+
+264 0
+
+265 0
+
+266 0
+
+267 0
+
+268 3
+Copper_design
+
+269 3
+Copper_design
+
+270 0
+
+271 0
+
+272 0
+
+273 0
+
+274 3
+Copper_design
+
+275 3
+Copper_design
+
+276 0
+
+277 0
+
+278 0
+
+279 0
+
+280 3
+Copper_design
+
+281 3
+Copper_design
+
+282 3
+Copper_design
+
+283 3
+Copper_design
+
+284 3
+Copper_design
+
+285 3
+Copper_design
+
+286 3
+Copper_design
+
+287 3
+Copper_design
+
+288 3
+Copper_design
+
+289 3
+Copper_design
+
+290 3
+Copper_design
+
+291 3
+Copper_design
+
+292 0
+
+293 0
+
+294 0
+
+295 0
+
+296 3
+Copper_design
+
+297 0
+
+298 0
+
+299 0
+
+300 0
+
+301 3
+Copper_design
+
+302 3
+Copper_design
+
+303 0
+
+304 0
+
+305 0
+
+306 0
+
+307 3
+Copper_design
+
+308 3
+Copper_design
+
+309 3
+Copper_design
+
+310 3
+Copper_design
+
+311 3
+Copper_design
+
+312 3
+Copper_design
+
+313 3
+Copper_design
+
+314 3
+Copper_design
+
+315 3
+Copper_design
+
+316 3
+Copper_design
+
+317 3
+Copper_design
+
+318 3
+Copper_design
+
+319 3
+Copper_design
+
+320 3
+Copper_design
+
+321 3
+Copper_design
+
+322 3
+Copper_design
+
+323 3
+Copper_design
+
+324 3
+Copper_design
+
+325 0
+
+326 0
+
+327 0
+
+328 0
+
+329 3
+Copper_design
+
+330 3
+Copper_design
+
+331 0
+
+332 0
+
+333 0
+
+334 0
+
+335 3
+Copper_design
+
+336 3
+Copper_design
+
+337 0
+
+338 0
+
+339 0
+
+340 0
+
+341 3
+Copper_design
+
+342 3
+Copper_design
+
+343 0
+
+344 0
+
+345 0
+
+346 0
+
+347 3
+Copper_design
+
+348 3
+Copper_design
+
+349 3
+Copper_design
+
+350 3
+Copper_design
+
+351 3
+Copper_design
+
+352 3
+Copper_design
+
+353 3
+Copper_design
+
+354 0
+
+355 0
+
+356 0
+
+357 0
+
+358 3
+Copper_design
+
+359 3
+Copper_design
+
+360 3
+Copper_design
+
+361 3
+Copper_design
+
+362 3
+Copper_design
+
+363 3
+Copper_design
+
+364 3
+Copper_design
+
+365 0
+
+366 0
+
+367 0
+
+368 0
+
+369 3
+Copper_design
+
+370 3
+Copper_design
+
+371 3
+Copper_design
+
+372 3
+Copper_design
+
+373 3
+Copper_design
+
+374 3
+Copper_design
+
+375 3
+Copper_design
+
+376 0
+
+377 0
+
+378 0
+
+379 0
+
+380 3
+Copper_design
+
+381 3
+Copper_design
+
+382 0
+
+383 0
+
+384 0
+
+385 0
+
+386 3
+Copper_design
+
+387 3
+Copper_design
+
+388 3
+Copper_design
+
+389 3
+Copper_design
+
+390 3
+Copper_design
+
+391 3
+Copper_design
+
+392 3
+Copper_design
+
+393 0
+
+394 0
+
+395 0
+
+396 0
+
+397 3
+Copper_design
+
+398 3
+Copper_design
+
+399 3
+Copper_design
+
+400 3
+Copper_design
+
+401 3
+Copper_design
+
+402 3
+Copper_design
+
+403 3
+Copper_design
+
+404 0
+
+405 0
+
+406 0
+
+407 0
+
+408 3
+Copper_design
+
+409 3
+Copper_design
+
+410 0
+
+411 0
+
+412 0
+
+413 0
+
+414 3
+Copper_design
+
+415 3
+Copper_design
+
+416 3
+Copper_design
+
+417 3
+Copper_design
+
+418 3
+Copper_design
+
+419 3
+Copper_design
+
+420 3
+Copper_design
+
+421 3
+Copper_design
+
+422 3
+Copper_design
+
+423 3
+Copper_design
+
+424 3
+Copper_design
+
+425 3
+Copper_design
+
+426 0
+
+427 0
+
+428 0
+
+429 0
+
+430 3
+Copper_design
+
+431 3
+Copper_design
+
+432 3
+Copper_design
+
+433 3
+Copper_design
+
+434 3
+Copper_design
+
+435 3
+Copper_design
+
+436 3
+Copper_design
+
+437 3
+Copper_design
+
+438 0
+
+439 0
+
+440 0
+
+441 0
+
+442 3
+Copper_design
+
+443 3
+Copper_design
+
+444 0
+
+445 0
+
+446 0
+
+447 0
+
+448 3
+Copper_design
+
+449 3
+Copper_design
+
+450 3
+Copper_design
+
+451 3
+Copper_design
+
+452 3
+Copper_design
+
+453 3
+Copper_design
+
+454 3
+Copper_design
+
+455 0
+
+456 0
+
+457 0
+
+458 0
+
+// Number 1D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+1
+
+// Obj1D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=PORT,4=Lumped):
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+

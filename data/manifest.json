@@ -1,0 +1,37 @@
+{
+  "created": "2026-10-24T20:32:41.578216",
+  "source_hashes": {
+    "课程建模大作业.pptx": "c924a0e35ccda338e091a874339c777514ceaeefafa0a9e0549085173fc10167",
+    "第4组 复现图2图3.pdf": "4c3e5b9c814294ffca9a21af28fa8c926306f10a248e086bc84c1e8625526b18",
+    "cst\\Ding2012_20layer.cst": "550485967cea86c8324a72527d29a371e67dd1929fd27166045a93271a6146b2",
+    "data\\spectrum.csv": "17c1843315bf17d3e7c669cf757dcb8e96d66d36266b6e317da77b6fa4f83c1e"
+  },
+  "final_case": "C06_loss12_meshcheck",
+  "nominal_case": "C04_loss12",
+  "deliverables": {
+    "report\\main.pdf": "3ec5dc59bfd600f8f939cf408745faa6bf9dd4a778b2846666de44bf0bb15230",
+    "slides\\main.pdf": "f394be0d13274d4626b3c7e4020ed024ccb86c2252f988bbb60a00206a5caae7",
+    "study_notes\\main.pdf": "e2fd7bea82a9c0d449ad9fa03eacf0352f7a886533e69868807381dfefc80b7d",
+    "runs\\C06_loss12_meshcheck\\absorber.cst": "261fc6bd29cda321cc1f911be17a1f909a3e18892ffe7a524ac0b5097c809293"
+  },
+  "audit_history": {
+    "previous_manifest": "audit/manifest_before_paper_skill_v2.json",
+    "paper_skill_audit": "audit/论文技能二轮核查报告.md",
+    "raw_model_unchanged": true,
+    "reporting_guardband": {
+      "lower_GHz": 7.3,
+      "upper_GHz": 26.0,
+      "RAB_percent": 112.31231231231232,
+      "minimum_A": 0.9163406102568045,
+      "frequency_average_A": 0.9825009109462626,
+      "max_copolar_S11_dB": -10.774853504455542
+    }
+  },
+  "organization_history": {
+    "date": "2026-10-26",
+    "record": "../_archive/20261026/整理清单.json",
+    "entry": "../00_先看这里.md",
+    "final_model_path_unchanged": true,
+    "final_results_sha256_verified": true
+  }
+}

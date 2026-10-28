@@ -1,0 +1,50 @@
+{
+    "parameters": [
+        {
+            "expr": "11",
+            "name": "P",
+            "value": "11"
+        },
+        {
+            "expr": "10",
+            "name": "Wl",
+            "value": "10"
+        },
+        {
+            "expr": "2.5",
+            "name": "Wt",
+            "value": "2.5"
+        },
+        {
+            "expr": "40",
+            "name": "N",
+            "value": "40"
+        },
+        {
+            "expr": "10",
+            "name": "H",
+            "value": "10"
+        },
+        {
+            "expr": "0.05",
+            "name": "tm",
+            "value": "0.05"
+        },
+        {
+            "expr": "0.2",
+            "name": "td",
+            "value": "0.2"
+        },
+        {
+            "expr": "4.4",
+            "name": "eps_r",
+            "value": "4.4"
+        },
+        {
+            "expr": "0.12",
+            "name": "loss_tan",
+            "value": "0.12"
+        }
+    ],
+    "version": 1
+}

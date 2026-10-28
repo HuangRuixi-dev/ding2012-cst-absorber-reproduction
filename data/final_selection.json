@@ -1,0 +1,65 @@
+{
+  "case": "C06_loss12_meshcheck",
+  "nominal": "C04_loss12",
+  "max_absorption_difference": 0.005536261643370843,
+  "reporting_guardband": {
+    "lower_GHz": 7.3,
+    "upper_GHz": 26.0,
+    "RAB_percent": 112.31231231231232,
+    "minimum_A": 0.9163406102568045,
+    "frequency_average_A": 0.9825009109462626,
+    "max_copolar_S11_dB": -10.774853504455542
+  },
+  "metrics": {
+    "case": "C06_loss12_meshcheck",
+    "parameters": {
+      "name": "C06_loss12_meshcheck",
+      "layers": 40,
+      "height": 10,
+      "bottom": 10,
+      "top": 2.5,
+      "loss": 0.12,
+      "period": 11,
+      "fmax": 26,
+      "modes": 2,
+      "law": "linear",
+      "strict": true,
+      "epsilon_r": 4.4,
+      "conductivity_Sm": 50000000.0,
+      "copper_fraction": 0.2,
+      "frequency_min_GHz": 5
+    },
+    "bands": [
+      {
+        "lower_GHz": 7.1604143695573175,
+        "upper_GHz": 26.0,
+        "width_GHz": 18.839585630442684,
+        "RAB_percent": 113.62696147571806,
+        "right_censored": true,
+        "left_censored": false
+      }
+    ],
+    "best": {
+      "lower_GHz": 7.1604143695573175,
+      "upper_GHz": 26.0,
+      "width_GHz": 18.839585630442684,
+      "RAB_percent": 113.62696147571806,
+      "right_censored": true,
+      "left_censored": false
+    },
+    "passes_spec": true,
+    "exit_code": 0,
+    "broadband_converged": true,
+    "A_range": [
+      0.19581840337274514,
+      0.9998790148822662
+    ],
+    "max_cross_reflection": 7.408890875636459e-08,
+    "max_T": 5.12e-130,
+    "samples": 2601,
+    "mesh_cells": "124082",
+    "last_mesh_delta": "0.00158252",
+    "solver_errors": [],
+    "warning_count": 1
+  }
+}

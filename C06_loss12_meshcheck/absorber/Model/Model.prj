@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2023.4 - Apr 26 2023 - ACIS 32.0.1 -
+[Author]
+huzst
+[Mesh Cells]
+124,082
+[Mesh Type]
+Tetrahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Frequency Domain
+[Last Solver Type Abb]
+f
+[Results]
+Frequency Domain: S-Parameter
+[Modeler Unique ID]
+5:absorber.cst?14206120eaf29733e80261e081d63da8?23304:numberofparameters=8::fport=zmin>fmode=1>zre=0>zim=0?fport=zmin>fmode=2>zre=0>zim=0?fport=zmax>fmode=1>zre=0>zim=0?fport=zmax>fmode=2>zre=0>zim=0::n?p?wl?wt?eps_r?loss_tan?td?tm
+[Comment]

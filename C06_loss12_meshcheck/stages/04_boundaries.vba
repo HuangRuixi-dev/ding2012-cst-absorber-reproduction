@@ -1,0 +1,25 @@
+With Background
+.Type "Normal"
+.Epsilon "1"
+.Mue "1"
+.XminSpace "0"
+.XmaxSpace "0"
+.YminSpace "0"
+.YmaxSpace "0"
+.ZminSpace "3"
+.ZmaxSpace "6"
+End With
+With Boundary
+.Xmin "unit cell"
+.Xmax "unit cell"
+.Ymin "unit cell"
+.Ymax "unit cell"
+.Zmin "open"
+.Zmax "open"
+.Xsymmetry "none"
+.Ysymmetry "none"
+.Zsymmetry "none"
+.SetPeriodicBoundaryAngles "0", "0"
+.UnitCellFitToBoundingBox "True"
+.UnitCellAngle "90"
+End With

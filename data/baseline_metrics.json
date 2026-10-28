@@ -1,0 +1,124 @@
+{
+  "bands_A_ge_0.9": [
+    [
+      8.196147291683534,
+      12.966592568157889,
+      45.08343728712357
+    ],
+    [
+      13.064173275276252,
+      13.480837088016296,
+      3.139300433773592
+    ],
+    [
+      13.612372375177422,
+      14.046857913288763,
+      3.141703753719568
+    ],
+    [
+      14.179692037229746,
+      14.540815429662178,
+      2.51474242123837
+    ]
+  ],
+  "max_transmission": 1.3520000000000014e-129,
+  "max_cross_reflection": 0.00032828695208318747,
+  "RMSE_vs_digitized_paper_simulation": 0.08040900348898539,
+  "MAE_vs_digitized_paper_simulation": 0.043815241033927844,
+  "samples": 1005,
+  "paper_reported_sim_RAB_percent": 53.1,
+  "paper_reported_experimental_band_GHz": [
+    7.8,
+    14.7
+  ],
+  "fields": [
+    {
+      "field": "E",
+      "frequency_GHz": 8.3,
+      "max_amplitude": 40642.36549295933,
+      "unit": "V/m",
+      "dielectric_energy_peak_z_mm": 0.67587727,
+      "grid_shape": [
+        221,
+        221
+      ]
+    },
+    {
+      "field": "H",
+      "frequency_GHz": 8.3,
+      "max_amplitude": 208.31311575435927,
+      "unit": "A/m",
+      "dielectric_energy_peak_z_mm": 0.50090909,
+      "grid_shape": [
+        221,
+        221
+      ]
+    },
+    {
+      "field": "E",
+      "frequency_GHz": 10.0,
+      "max_amplitude": 44091.38897859744,
+      "unit": "V/m",
+      "dielectric_energy_peak_z_mm": 2.4255591,
+      "grid_shape": [
+        221,
+        221
+      ]
+    },
+    {
+      "field": "H",
+      "frequency_GHz": 10.0,
+      "max_amplitude": 233.98267875798,
+      "unit": "A/m",
+      "dielectric_energy_peak_z_mm": 2.4255591,
+      "grid_shape": [
+        221,
+        221
+      ]
+    },
+    {
+      "field": "E",
+      "frequency_GHz": 12.0,
+      "max_amplitude": 54423.47531214332,
+      "unit": "V/m",
+      "dielectric_energy_peak_z_mm": 3.6753318,
+      "grid_shape": [
+        221,
+        221
+      ]
+    },
+    {
+      "field": "H",
+      "frequency_GHz": 12.0,
+      "max_amplitude": 277.72877116524813,
+      "unit": "A/m",
+      "dielectric_energy_peak_z_mm": 3.6253409,
+      "grid_shape": [
+        221,
+        221
+      ]
+    },
+    {
+      "field": "E",
+      "frequency_GHz": 14.0,
+      "max_amplitude": 54810.66703747096,
+      "unit": "V/m",
+      "dielectric_energy_peak_z_mm": 4.6251591,
+      "grid_shape": [
+        221,
+        221
+      ]
+    },
+    {
+      "field": "H",
+      "frequency_GHz": 14.0,
+      "max_amplitude": 283.62724348636345,
+      "unit": "A/m",
+      "dielectric_energy_peak_z_mm": 4.5001818,
+      "grid_shape": [
+        221,
+        221
+      ]
+    }
+  ]
+}

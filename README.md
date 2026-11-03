@@ -1,0 +1,12 @@
+最终成果目录
+
+P05_loss18_full：最终达标主工程，打开 absorber.cst；保留完整CST结果目录。
+P06_critical_stability_screen：12.23GHz独立网格收敛复核工程。
+figures：五张最终结果图片。
+stability_40GHz：40GHz有效复核数据。
+comparison_data：绘图使用的对比数据。
+scripts：建模、评估和绘图脚本。
+final_selection.json：最终方案与验证数值。
+
+法向入射下完整5–40GHz扫频通过；最低吸收率92.49%，最差S11约-11.25dB，相对带宽155.56%。
+设计介质参数εr=22、tanδ=0.18，区别于参考论文FR4。

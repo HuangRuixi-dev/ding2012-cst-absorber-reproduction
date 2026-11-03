@@ -1,0 +1,45 @@
+{
+  "name": "P05_loss18_full",
+  "screening": false,
+  "mode_count": 18,
+  "first_diffraction_GHz": 41.63784138888889,
+  "samples": 3501,
+  "min_A": 0.9249412029131342,
+  "min_A_frequency_GHz": 12.23,
+  "max_copolar_S11_dB": -11.245984113782242,
+  "max_higher_reflection": 0.0,
+  "max_T": 5.779999999999998e-130,
+  "bands": [
+    {
+      "lower_GHz": 5.0,
+      "upper_GHz": 40.0,
+      "RAB_percent": 155.55555555555554,
+      "lower_censored": true,
+      "upper_censored": true
+    }
+  ],
+  "best": {
+    "lower_GHz": 5.0,
+    "upper_GHz": 40.0,
+    "RAB_percent": 155.55555555555554,
+    "lower_censored": true,
+    "upper_censored": true
+  },
+  "screening_points_pass": true,
+  "full_5_40_pass": true,
+  "power_sanity": true,
+  "mesh_converged": true,
+  "broadband_converged": true,
+  "mesh_cells": 94003,
+  "last_delta_S": 0.00218919,
+  "solver_errors": [],
+  "warning_count": 2,
+  "at_5": [
+    0.968762903556709,
+    -15.053293504365064
+  ],
+  "at_40": [
+    0.9924637567504924,
+    -21.228459947335484
+  ]
+}

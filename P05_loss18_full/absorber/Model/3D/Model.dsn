@@ -1,0 +1,46 @@
+*** File Version: 21.00
+
+Number of ports: 0
+Portnames:
+Modenumbers:
+Porttypes:
+Portlabels:
+StaticSources:
+ThermalSources:
+FloquetPortNames: "Zmin" "Zmax"
+FloquetPortModes: 18 18
+SchematicPortNames:
+SchematicPortLabels:
+Terminals:
+StaticToReferenceTable:
+ThermalToReferenceTable:
+TerminalToReferenceTable:
+PortToReferenceTable:
+FloquetToReferenceTable:
+SchematicToReferenceTable:
+StaticSourceGroups:
+ThermalSourceGroups:
+TerminalSourceGroups:
+PortSourceGroups:
+FloquetPortSourceGroups:
+SchematicPortSourceGroups:
+Number of frequency-points: 0
+Fmin: 5.000000e+09
+Fmax: 4.000000e+10
+Fscale: 1.000000e+09
+
+
+
+
+
+*** newmonitor
+monname: "E_12.4GHz"
+nmonfrequencies: 1
+monfrequencies: "12.4" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+

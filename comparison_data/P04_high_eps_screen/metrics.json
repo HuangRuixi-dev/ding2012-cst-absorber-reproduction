@@ -1,0 +1,31 @@
+{
+  "name": "P04_high_eps_screen",
+  "screening": true,
+  "mode_count": 18,
+  "first_diffraction_GHz": 41.63784138888889,
+  "samples": 5,
+  "min_A": 0.9652941704925005,
+  "min_A_frequency_GHz": 10.0,
+  "max_copolar_S11_dB": -14.59597643668019,
+  "max_higher_reflection": 0.0,
+  "max_T": 0.0,
+  "bands": [],
+  "best": null,
+  "screening_points_pass": true,
+  "full_5_40_pass": null,
+  "power_sanity": true,
+  "mesh_converged": true,
+  "broadband_converged": false,
+  "mesh_cells": 63398,
+  "last_delta_S": 0.00277925,
+  "solver_errors": [],
+  "warning_count": 4,
+  "at_5": [
+    0.9812492613878231,
+    -17.269817312302187
+  ],
+  "at_40": [
+    0.9917030897806189,
+    -20.810853456746166
+  ]
+}

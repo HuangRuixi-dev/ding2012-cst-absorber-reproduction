@@ -1,0 +1,82 @@
+{
+  "design_family": "Ding2012 copper-dielectric tapered quadrangular pyramid array",
+  "prior_resistive_film_design_is_not_final": true,
+  "attempts": [
+    {
+      "case": "P01_geometry_FR4",
+      "role": "aborted initial iterative solver; excluded from performance claims",
+      "model_retained": false
+    },
+    {
+      "case": "P01_geometry_FR4_direct",
+      "role": "failed 40GHz endpoint screening, four mesh levels; broadband deliberately terminated",
+      "A40": 0.7521618062919923,
+      "model_retained": false,
+      "data_archive": "C:\\Users\\huzst\\Desktop\\senior\\metamaterial\\ding2012-cst-absorber-reproduction-main\\course_design_absorber\\pyramid_optimization_5_40GHz\\comparison_data\\P01_geometry_FR4_direct"
+    },
+    {
+      "case": "P02_loss12_screen",
+      "role": "five independent frequencies; failed; not broadband validation",
+      "model_retained": false,
+      "data_archive": "C:\\Users\\huzst\\Desktop\\senior\\metamaterial\\ding2012-cst-absorber-reproduction-main\\course_design_absorber\\pyramid_optimization_5_40GHz\\comparison_data\\P02_loss12_screen"
+    },
+    {
+      "case": "P03_log_profile_screen",
+      "role": "postprocessing database lock; excluded from final performance evidence",
+      "model_retained": false
+    },
+    {
+      "case": "P03_log_profile_screen_retry",
+      "role": "successful retry of five independent frequencies; failed; not broadband validation",
+      "model_retained": false,
+      "data_archive": "C:\\Users\\huzst\\Desktop\\senior\\metamaterial\\ding2012-cst-absorber-reproduction-main\\course_design_absorber\\pyramid_optimization_5_40GHz\\comparison_data\\P03_log_profile_screen_retry"
+    },
+    {
+      "case": "P04_high_eps_screen",
+      "role": "five independent frequencies passed; full-band status not inferred",
+      "model_retained": false,
+      "data_archive": "C:\\Users\\huzst\\Desktop\\senior\\metamaterial\\ding2012-cst-absorber-reproduction-main\\course_design_absorber\\pyramid_optimization_5_40GHz\\comparison_data\\P04_high_eps_screen"
+    },
+    {
+      "case": "P04_high_eps_full",
+      "role": "completed broadband sweep; failed at 12.4 GHz",
+      "minimum_A": 0.8916888942058812,
+      "model_retained": false,
+      "data_archive": "C:\\Users\\huzst\\Desktop\\senior\\metamaterial\\ding2012-cst-absorber-reproduction-main\\course_design_absorber\\pyramid_optimization_5_40GHz\\comparison_data\\P04_high_eps_full"
+    },
+    {
+      "case": "P04_high_eps_strict",
+      "role": "aborted after broadband failure was known; excluded from final validation",
+      "model_retained": false
+    },
+    {
+      "case": "P05_loss18_screen",
+      "role": "eight independent frequencies including old absorption dip; passed screening only",
+      "model_retained": false,
+      "data_archive": "C:\\Users\\huzst\\Desktop\\senior\\metamaterial\\ding2012-cst-absorber-reproduction-main\\course_design_absorber\\pyramid_optimization_5_40GHz\\comparison_data\\P05_loss18_screen"
+    },
+    {
+      "case": "P05_loss18_full",
+      "role": "completed and converged continuous broadband sweep; passed 5-40 GHz",
+      "model_retained": true
+    },
+    {
+      "case": "P05_loss18_screen_strict",
+      "role": "only completed 40GHz adaptive exports retained; stopped/restarted CST project deleted",
+      "model_retained": false,
+      "data_archive": "C:\\Users\\huzst\\Desktop\\senior\\metamaterial\\ding2012-cst-absorber-reproduction-main\\course_design_absorber\\pyramid_optimization_5_40GHz\\stability_40GHz"
+    },
+    {
+      "case": "P06_critical_stability_screen",
+      "role": "independent 12.23GHz adaptive mesh convergence completed successfully",
+      "mesh_cells": 178365,
+      "A": 0.9243335432319657,
+      "model_retained": true
+    }
+  ],
+  "selected_final_case": "P05_loss18_full",
+  "stability_evidence": [
+    "P06_critical_stability_screen",
+    "stability_40GHz/endpoint_40GHz.json"
+  ]
+}

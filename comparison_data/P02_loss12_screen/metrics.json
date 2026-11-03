@@ -1,0 +1,31 @@
+{
+  "name": "P02_loss12_screen",
+  "screening": true,
+  "mode_count": 50,
+  "first_diffraction_GHz": 17.634850470588237,
+  "samples": 5,
+  "min_A": 0.7764332281184949,
+  "min_A_frequency_GHz": 40.0,
+  "max_copolar_S11_dB": -14.931274827965131,
+  "max_higher_reflection": 0.19458810112512176,
+  "max_T": 0.0,
+  "bands": [],
+  "best": null,
+  "screening_points_pass": false,
+  "full_5_40_pass": null,
+  "power_sanity": true,
+  "mesh_converged": true,
+  "broadband_converged": false,
+  "mesh_cells": 108040,
+  "last_delta_S": 0.0106082,
+  "solver_errors": [],
+  "warning_count": 4,
+  "at_5": [
+    0.9846612932798342,
+    -18.142132211328594
+  ],
+  "at_40": [
+    0.7764332281184949,
+    -15.37924346970639
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "frequency_GHz": 12.23,
+  "A_by_pass": [
+    0.9252476159092706,
+    0.9251634482299774,
+    0.9247421874913146,
+    0.9243335432319656
+  ],
+  "mesh_cells_by_pass": [
+    46758,
+    69975,
+    107128,
+    178365
+  ],
+  "delta_S": [
+    0.004382437557169951,
+    0.0024324515944304406,
+    0.0016459049815015375
+  ],
+  "mode_count": 50,
+  "scope": "independent adaptive mesh convergence at same physical frequency"
+}

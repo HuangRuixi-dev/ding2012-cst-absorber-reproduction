@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Windows / macOS metadata
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# CST temporary runtime files; keep .cst projects and native Result directories
+**/absorber/Temp/
+*.tmp

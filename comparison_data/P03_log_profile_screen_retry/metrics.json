@@ -1,0 +1,31 @@
+{
+  "name": "P03_log_profile_screen_retry",
+  "screening": true,
+  "mode_count": 50,
+  "first_diffraction_GHz": 17.634850470588237,
+  "samples": 5,
+  "min_A": 0.7067633000924719,
+  "min_A_frequency_GHz": 40.0,
+  "max_copolar_S11_dB": -11.963764226513515,
+  "max_higher_reflection": 0.25795394420392387,
+  "max_T": 0.0,
+  "bands": [],
+  "best": null,
+  "screening_points_pass": false,
+  "full_5_40_pass": null,
+  "power_sanity": true,
+  "mesh_converged": true,
+  "broadband_converged": false,
+  "mesh_cells": 74734,
+  "last_delta_S": 0.00869763,
+  "solver_errors": [],
+  "warning_count": 4,
+  "at_5": [
+    0.9725851032340435,
+    -15.620149839552111
+  ],
+  "at_40": [
+    0.7067633000924719,
+    -14.524461351598038
+  ]
+}

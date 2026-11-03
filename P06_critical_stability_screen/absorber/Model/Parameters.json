@@ -1,0 +1,50 @@
+{
+    "parameters": [
+        {
+            "expr": "7.2",
+            "name": "P",
+            "value": "7.2"
+        },
+        {
+            "expr": "6.9",
+            "name": "Wb",
+            "value": "6.9"
+        },
+        {
+            "expr": "0.65",
+            "name": "Wt",
+            "value": "0.65"
+        },
+        {
+            "expr": "20",
+            "name": "H",
+            "value": "20"
+        },
+        {
+            "expr": "80",
+            "name": "N",
+            "value": "80"
+        },
+        {
+            "expr": "0.05",
+            "name": "tm",
+            "value": "0.05"
+        },
+        {
+            "expr": "0.2",
+            "name": "td",
+            "value": "0.2"
+        },
+        {
+            "expr": "22",
+            "name": "epsr",
+            "value": "22"
+        },
+        {
+            "expr": "0.18",
+            "name": "tand",
+            "value": "0.18"
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,17 @@
+{
+  "name": "C06_loss12_meshcheck",
+  "layers": 40,
+  "height": 10,
+  "bottom": 10,
+  "top": 2.5,
+  "loss": 0.12,
+  "period": 11,
+  "fmax": 26,
+  "modes": 2,
+  "law": "linear",
+  "strict": true,
+  "epsilon_r": 4.4,
+  "conductivity_Sm": 50000000.0,
+  "copper_fraction": 0.2,
+  "frequency_min_GHz": 5
+}

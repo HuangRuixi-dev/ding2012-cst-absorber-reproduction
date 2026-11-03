@@ -1,0 +1,40 @@
+----------------------------------------------------------------------
+  Total number of passes   :	1
+  Mesh adaptation pass     :	1
+  Simulation point         :	40 GHz, Theta: 0, Phi: 0
+----------------------------------------------------------------------
+  Solver time w/o ref.     :	4 s
+  Mesh refinement time     :	4 s
+  Number of mesh cells     :	46758
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+  Total number of passes   :	2
+  Mesh adaptation pass     :	2
+  Simulation point         :	40 GHz, Theta: 0, Phi: 0
+----------------------------------------------------------------------
+  Solver time w/o ref.     :	6 s
+  Mesh refinement time     :	3 s
+  Number of mesh cells     :	64439
+  Delta calculation        
+  All S-Parameters         :	0.00510153
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+  Total number of passes   :	3
+  Mesh adaptation pass     :	3
+  Simulation point         :	40 GHz, Theta: 0, Phi: 0
+----------------------------------------------------------------------
+  Solver time w/o ref.     :	11 s
+  Mesh refinement time     :	0 s
+  Number of mesh cells     :	94003
+  Delta calculation        
+  All S-Parameters         :	0.00218919
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+  Total solver time        :	31 s
+
+  Desired accuracy limit reached, mesh adaptation stopped.
+----------------------------------------------------------------------
+

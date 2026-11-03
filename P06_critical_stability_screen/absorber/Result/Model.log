@@ -1,0 +1,189 @@
+03/Nov/2026 20:10:22  In order to get an optimal performance, hyperthreading is ignored for parallel
+                      computations.
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:28  *** Warning ***
+                      
+03/Nov/2026 20:10:28  `tbbmalloc_proxy` cannot replace memory allocation routines (status:-1):
+                      Success: free (ucrtbase.dll), byte pattern: <C7442410000000008B4424>
+                      Fail: _msize (ucrtbase.dll), byte pattern: <E9ABFFFFFFCCCCCCCCCCCC>
+                      The solver will continue with a reduced performance.
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:28  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:28  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: unit cell
+                        Xmax: unit cell
+                      
+                        Ymin: unit cell
+                        Ymax: unit cell
+                      
+                        Zmin: open
+                        Zmax: open
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:28  Order settings: 
+                      
+                        Solver order   : 2nd (constant)
+                        Curved elements: up to order 3 (automatic)
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:28    Mesh time                :	5 s
+                      
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:29  
+                      ================================================================================
+                      Frequency Domain Solver calculation cycle started
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:29  Solver started at: 08:10 PM Tuesday, 03. November 2026 (中国标准时间)
+                      
+                        Module:  Frequency Domain: S-Parameter (Win 64)
+                        Version: 2023.4 Release from 2023-04-26 (change 1105600)
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:29  The low frequency stabilization is not applied to periodic problems.
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:29    Calculation 1 of 1 (Frequency: 12.23 GHz, Theta: 0, Phi: 0)
+                      
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:32  The wavelength based mesh refinement has been applied to 2.3% of all mesh edges.
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:34  Adaptive mesh refinement pass 1
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:41    Matrix setup time        :	1 s
+                        Solver setup             :	5 s
+                        Degrees of freedom       :	342102
+                        Number of mesh cells     :	46758
+                      
+                        Stimulation port         :	Zmax
+                        Mode number              :	1
+                        Accuracy                 :	6.09072e-09
+                        Iterations               :	1
+                        Solver time              :	0 s
+                      
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:42  9% of all mesh edges seem to be longer than expected. The adaptive mesh refinement's growth limitation will therefore 
+                      use 72915 instead of 36752 mesh cells as a reference.
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:46  Adaptive mesh refinement pass 2
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:56    Matrix setup time        :	2 s
+                        Solver setup             :	7 s
+                        Degrees of freedom       :	499256
+                        Number of mesh cells     :	69975
+                      
+                        Stimulation port         :	Zmax
+                        Mode number              :	1
+                        Accuracy                 :	1.03115e-08
+                        Iterations               :	1
+                        Solver time              :	0 s
+                      
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:10:56    Delta calculation        
+03/Nov/2026 20:10:56    All S-Parameters         :	0.00438244
+
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:11:00  Adaptive mesh refinement pass 3
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:11:19    Matrix setup time        :	2 s
+                        Solver setup             :	16 s
+                        Degrees of freedom       :	749102
+                        Number of mesh cells     :	107128
+                      
+                        Stimulation port         :	Zmax
+                        Mode number              :	1
+                        Accuracy                 :	1.59247e-08
+                        Iterations               :	1
+                        Solver time              :	0 s
+                      
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:11:20    Delta calculation        
+03/Nov/2026 20:11:20    All S-Parameters         :	0.00243245
+
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:11:29  Adaptive mesh refinement pass 4
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:12:23    Matrix setup time        :	7 s
+                        Solver setup             :	45 s
+                        Degrees of freedom       :	1231678
+                        Number of mesh cells     :	178365
+                      
+                        Stimulation port         :	Zmax
+                        Mode number              :	1
+                        Accuracy                 :	2.31976e-08
+                        Iterations               :	1
+                        Solver time              :	1 s
+                      
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:12:25    Delta calculation        
+03/Nov/2026 20:12:25    All S-Parameters         :	0.0016459
+
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:12:25  Mesh adaptation terminated because the desired accuracy limit is reached.
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:12:25    Total time               :	115 s	 (= 0 h, 01 m, 55 s)
+                      
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:12:26  Calculation finished.
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:12:26    Number of mesh cells     :	178365
+                        Degrees of freedom       :	1226480
+                        Total Solver Time        :	121 s	 (= 0 h, 02 m, 01 s)
+                      ================================================================================
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:12:26    ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        Solver start        24080                         19327184     19326560     
+                        Eq. system setup    5328880                       19276344     17611900     
+                        Eq. system solve    9756988                       18966140     9763108      
+                        Mesh refinement     5328880                       18626664     17917088     
+                        Solver run total    9756988                       19327188     9763108      
+                      
+                        Computer name       Alex_Shen
+                        ----------------------------------------------------------------------------
+                      
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:12:27  Running postprocessing.
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:12:28  Postprocessing finished.
+                      
+                      ------------------------------------------------------------------------------
+03/Nov/2026 20:12:29  Creating parametric 1D results for Run ID 1
+                      
+                      ------------------------------------------------------------------------------

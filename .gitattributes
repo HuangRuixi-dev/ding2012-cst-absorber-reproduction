@@ -1,0 +1,3 @@
+# Preserve original bytes of this scientific simulation archive.
+# Do not convert LF/CRLF in CST projects, native results, or exported data.
+* -text

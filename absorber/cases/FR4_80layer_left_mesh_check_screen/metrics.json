@@ -1,0 +1,28 @@
+{
+  "name": "FR4_80layer_left_mesh_check_screen",
+  "screening": true,
+  "mode_count": 18,
+  "first_diffraction_GHz": 41.63784138888889,
+  "samples": 14,
+  "min_A": 0.004159233029996323,
+  "min_A_frequency_GHz": 1.0,
+  "max_copolar_S11_dB": -0.018100988840766073,
+  "max_higher_reflection": 0.0,
+  "max_T": 0.0,
+  "bands": [],
+  "best": null,
+  "screening_points_pass": false,
+  "full_5_40_pass": null,
+  "power_sanity": true,
+  "mesh_converged": true,
+  "broadband_converged": false,
+  "mesh_cells": 19983,
+  "last_delta_S": 0.0199397,
+  "solver_errors": [],
+  "warning_count": 2,
+  "at_5": [
+    0.021991957233379544,
+    -0.09657586062705802
+  ],
+  "at_40": null
+}

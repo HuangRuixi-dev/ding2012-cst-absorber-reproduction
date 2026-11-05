@@ -11,3 +11,7 @@ Thumbs.db
 # CST temporary runtime files; keep .cst projects and native Result directories
 **/absorber/Temp/
 *.tmp
+
+# Native caches for the new FR4 package. Track the small CST files and exports.
+/cst/absorber/
+/absorber/cases/*/absorber/

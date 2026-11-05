@@ -1,0 +1,16 @@
+StoreParameter "P", "7.2"
+StoreParameter "Wb", "6.9"
+StoreParameter "Wt", "0.65"
+StoreParameter "H", "20.0"
+StoreParameter "N", "80"
+StoreParameter "tm", "0.05"
+StoreParameter "td", "0.2"
+StoreParameter "epsr", "4.4"
+StoreParameter "tand", "0.02"
+With Units
+.Geometry "mm"
+.Frequency "GHz"
+.Time "ns"
+End With
+Solver.FrequencyRange "55.0", "70.0"
+ChangeSolverType "HF Frequency Domain"

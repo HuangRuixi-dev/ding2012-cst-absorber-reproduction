@@ -1,0 +1,28 @@
+{
+  "name": "FR4_80layer_43GHz_direct_screen",
+  "screening": true,
+  "mode_count": 18,
+  "first_diffraction_GHz": 41.63784138888889,
+  "samples": 15,
+  "min_A": 0.9340830453667095,
+  "min_A_frequency_GHz": 42.0,
+  "max_copolar_S11_dB": -12.676059026529858,
+  "max_higher_reflection": 0.0129200135051077,
+  "max_T": 0.0,
+  "bands": [],
+  "best": null,
+  "screening_points_pass": true,
+  "full_5_40_pass": null,
+  "power_sanity": true,
+  "mesh_converged": false,
+  "broadband_converged": false,
+  "mesh_cells": 15632,
+  "last_delta_S": null,
+  "solver_errors": [],
+  "warning_count": 3,
+  "at_5": null,
+  "at_40": [
+    0.970141762001427,
+    -15.45436949743676
+  ]
+}

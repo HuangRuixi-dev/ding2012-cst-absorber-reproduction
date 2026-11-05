@@ -1,0 +1,18 @@
+With FDSolver
+.SetMethod "", "Discrete samples only"
+.ResetSampleIntervals "all"
+.AddSampleInterval "1", "1", "1", "Single", "False"
+.AddSampleInterval "5", "5", "1", "Single", "False"
+.AddSampleInterval "6", "6", "1", "Single", "False"
+.AddSampleInterval "7", "7", "1", "Single", "False"
+.AddSampleInterval "7.5", "7.5", "1", "Single", "False"
+.AddSampleInterval "8", "8", "1", "Single", "False"
+.AddSampleInterval "9", "9", "1", "Single", "False"
+.AddSampleInterval "10", "10", "1", "Single", "False"
+.AddSampleInterval "10.5", "10.5", "1", "Single", "True"
+.AddSampleInterval "11", "11", "1", "Single", "False"
+.AddSampleInterval "11.5", "11.5", "1", "Single", "False"
+.AddSampleInterval "12", "12", "1", "Single", "False"
+.AddSampleInterval "13", "13", "1", "Single", "False"
+.AddSampleInterval "15", "15", "1", "Single", "False"
+End With

@@ -1,0 +1,151 @@
+{
+  "name": "FR4_80layer_43GHz_direct_screen",
+  "N": 80,
+  "H": 20.0,
+  "Wb": 6.9,
+  "Wt": 0.65,
+  "P": 7.2,
+  "eps": 4.4,
+  "loss": 0.02,
+  "law": "log",
+  "copper_sigma_Sm": 50000000.0,
+  "tm_mm": 0.05,
+  "frequency_GHz": [
+    40,
+    45
+  ],
+  "normal_incidence": true,
+  "excitation": "TE(0,0)",
+  "screening": true,
+  "strict": false,
+  "screening_frequencies_GHz": [
+    40,
+    41.5,
+    41.7,
+    42,
+    43,
+    43.28,
+    43.4,
+    43.5,
+    43.6,
+    43.7,
+    43.8,
+    44,
+    44.2,
+    44.5,
+    45
+  ],
+  "material_note": "paper FR4 eps=4.4 tanD=0.02; finite copper conductivity; no measured dispersion; second-order initial mesh, no mesh adaptation; coarse boundary screening",
+  "modes": [
+    {
+      "type": "TE",
+      "m": 0,
+      "n": 0,
+      "cutoff_GHz": 0.0
+    },
+    {
+      "type": "TM",
+      "m": 0,
+      "n": 0,
+      "cutoff_GHz": 0.0
+    },
+    {
+      "type": "TE",
+      "m": -1,
+      "n": 0,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TM",
+      "m": -1,
+      "n": 0,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TE",
+      "m": 0,
+      "n": -1,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TM",
+      "m": 0,
+      "n": -1,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TE",
+      "m": 0,
+      "n": 1,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TM",
+      "m": 0,
+      "n": 1,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TE",
+      "m": 1,
+      "n": 0,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TM",
+      "m": 1,
+      "n": 0,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TE",
+      "m": -1,
+      "n": -1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TM",
+      "m": -1,
+      "n": -1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TE",
+      "m": -1,
+      "n": 1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TM",
+      "m": -1,
+      "n": 1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TE",
+      "m": 1,
+      "n": -1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TM",
+      "m": 1,
+      "n": -1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TE",
+      "m": 1,
+      "n": 1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TM",
+      "m": 1,
+      "n": 1,
+      "cutoff_GHz": 58.88480000010646
+    }
+  ],
+  "mode_count": 18,
+  "td_mm": 0.2
+}

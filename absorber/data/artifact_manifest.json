@@ -1,0 +1,46 @@
+{
+  "main_project": {
+    "path": "cst/absorber.cst",
+    "sha256": "4ca263a72c09e3cd03eb694b961f6b02c97d3db10e91509f62f6da4084d5b8e5",
+    "prepared_without_new_solver_run": true
+  },
+  "figure": {
+    "path": "absorber/figures/02_absorption_1_80.png",
+    "sha256": "029481c5f0b966ecfc5308a05cb4c599447e4af745961cb2a55fc7343d33ba75",
+    "exact_match_to_reviewed_local_figure": true
+  },
+  "case_projects": [
+    {
+      "case": "FR4_80layer_43GHz_direct_screen",
+      "sha256": "367969a8710ed127eb7d4d3c53864459e1fd0516738e54d94b1f0ee16fa765cd"
+    },
+    {
+      "case": "FR4_80layer_75GHz_refined_screen",
+      "sha256": "97bb632bc5e6e2cb5bea9132806c3ee6ab5301ae0473199d3c49313d8d7b43f2"
+    },
+    {
+      "case": "FR4_80layer_left_mesh_check_screen",
+      "sha256": "7c336abef1584dacff54e450bae185f9c74b78466f779e903739d74fd955a47a"
+    },
+    {
+      "case": "FR4_80layer_mid15_30_5GHz_screen",
+      "sha256": "9b01cc3093bdeef8ed55cfe7d998a7d6e2746b5b8cb2e54e86847be9972207ad"
+    },
+    {
+      "case": "FR4_80layer_mid35_50_5GHz_screen",
+      "sha256": "85f28a9a86395c3c7a47a94ec3812b604c826588e07785a4c64755c37ae0dc1d"
+    },
+    {
+      "case": "FR4_80layer_mid55_70_5GHz_screen",
+      "sha256": "90d24976a8d18a3f4cb0b7b2109a2ddee6bbc500fadf5425899763f5c0cd40cf"
+    },
+    {
+      "case": "FR4_80layer_quick_boundary_screen",
+      "sha256": "0c3b7bc4779bf75f849cebe58ae134d59887ee679d73d2724fcc2cd3a878f191"
+    },
+    {
+      "case": "FR4_80layer_right_mesh_check_screen",
+      "sha256": "775938fe25a670d78e47bfca7fb57fd1afe30adf72b62cde43bfb001f0f22825"
+    }
+  ]
+}

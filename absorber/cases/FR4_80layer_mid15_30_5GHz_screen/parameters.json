@@ -1,0 +1,337 @@
+{
+  "name": "FR4_80layer_mid15_30_5GHz_screen",
+  "N": 80,
+  "H": 20.0,
+  "Wb": 6.9,
+  "Wt": 0.65,
+  "P": 7.2,
+  "eps": 4.4,
+  "loss": 0.02,
+  "law": "log",
+  "copper_sigma_Sm": 50000000.0,
+  "tm_mm": 0.05,
+  "frequency_GHz": [
+    15.0,
+    30.0
+  ],
+  "normal_incidence": true,
+  "excitation": "TE(0,0)",
+  "screening": true,
+  "strict": false,
+  "screening_frequencies_GHz": [
+    15,
+    20,
+    25,
+    30
+  ],
+  "material_note": "paper FR4 eps=4.4 tanD=0.02; finite copper conductivity; no measured dispersion; 5-GHz middle-frequency grid; second-order adaptation at upper frequency per group; 3-4 passes; delta S target 0.02; 50 Floquet modes",
+  "modes": [
+    {
+      "type": "TE",
+      "m": 0,
+      "n": 0,
+      "cutoff_GHz": 0.0
+    },
+    {
+      "type": "TM",
+      "m": 0,
+      "n": 0,
+      "cutoff_GHz": 0.0
+    },
+    {
+      "type": "TE",
+      "m": -1,
+      "n": 0,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TM",
+      "m": -1,
+      "n": 0,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TE",
+      "m": 0,
+      "n": -1,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TM",
+      "m": 0,
+      "n": -1,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TE",
+      "m": 0,
+      "n": 1,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TM",
+      "m": 0,
+      "n": 1,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TE",
+      "m": 1,
+      "n": 0,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TM",
+      "m": 1,
+      "n": 0,
+      "cutoff_GHz": 41.63784138888889
+    },
+    {
+      "type": "TE",
+      "m": -1,
+      "n": -1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TM",
+      "m": -1,
+      "n": -1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TE",
+      "m": -1,
+      "n": 1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TM",
+      "m": -1,
+      "n": 1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TE",
+      "m": 1,
+      "n": -1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TM",
+      "m": 1,
+      "n": -1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TE",
+      "m": 1,
+      "n": 1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TM",
+      "m": 1,
+      "n": 1,
+      "cutoff_GHz": 58.88480000010646
+    },
+    {
+      "type": "TE",
+      "m": -2,
+      "n": 0,
+      "cutoff_GHz": 83.27568277777777
+    },
+    {
+      "type": "TM",
+      "m": -2,
+      "n": 0,
+      "cutoff_GHz": 83.27568277777777
+    },
+    {
+      "type": "TE",
+      "m": 0,
+      "n": -2,
+      "cutoff_GHz": 83.27568277777777
+    },
+    {
+      "type": "TM",
+      "m": 0,
+      "n": -2,
+      "cutoff_GHz": 83.27568277777777
+    },
+    {
+      "type": "TE",
+      "m": 0,
+      "n": 2,
+      "cutoff_GHz": 83.27568277777777
+    },
+    {
+      "type": "TM",
+      "m": 0,
+      "n": 2,
+      "cutoff_GHz": 83.27568277777777
+    },
+    {
+      "type": "TE",
+      "m": 2,
+      "n": 0,
+      "cutoff_GHz": 83.27568277777777
+    },
+    {
+      "type": "TM",
+      "m": 2,
+      "n": 0,
+      "cutoff_GHz": 83.27568277777777
+    },
+    {
+      "type": "TE",
+      "m": -2,
+      "n": -1,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TM",
+      "m": -2,
+      "n": -1,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TE",
+      "m": -2,
+      "n": 1,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TM",
+      "m": -2,
+      "n": 1,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TE",
+      "m": -1,
+      "n": -2,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TM",
+      "m": -1,
+      "n": -2,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TE",
+      "m": -1,
+      "n": 2,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TM",
+      "m": -1,
+      "n": 2,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TE",
+      "m": 1,
+      "n": -2,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TM",
+      "m": 1,
+      "n": -2,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TE",
+      "m": 1,
+      "n": 2,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TM",
+      "m": 1,
+      "n": 2,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TE",
+      "m": 2,
+      "n": -1,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TM",
+      "m": 2,
+      "n": -1,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TE",
+      "m": 2,
+      "n": 1,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TM",
+      "m": 2,
+      "n": 1,
+      "cutoff_GHz": 93.10504378190981
+    },
+    {
+      "type": "TE",
+      "m": -2,
+      "n": -2,
+      "cutoff_GHz": 117.76960000021292
+    },
+    {
+      "type": "TM",
+      "m": -2,
+      "n": -2,
+      "cutoff_GHz": 117.76960000021292
+    },
+    {
+      "type": "TE",
+      "m": -2,
+      "n": 2,
+      "cutoff_GHz": 117.76960000021292
+    },
+    {
+      "type": "TM",
+      "m": -2,
+      "n": 2,
+      "cutoff_GHz": 117.76960000021292
+    },
+    {
+      "type": "TE",
+      "m": 2,
+      "n": -2,
+      "cutoff_GHz": 117.76960000021292
+    },
+    {
+      "type": "TM",
+      "m": 2,
+      "n": -2,
+      "cutoff_GHz": 117.76960000021292
+    },
+    {
+      "type": "TE",
+      "m": 2,
+      "n": 2,
+      "cutoff_GHz": 117.76960000021292
+    },
+    {
+      "type": "TM",
+      "m": 2,
+      "n": 2,
+      "cutoff_GHz": 117.76960000021292
+    }
+  ],
+  "mode_count": 50,
+  "td_mm": 0.2,
+  "mesh_adaptation_frequency_GHz": 30.0,
+  "mesh_delta_S_target": 0.02,
+  "mesh_min_passes": 3,
+  "mesh_max_passes": 4,
+  "grid_spacing_GHz": 5
+}

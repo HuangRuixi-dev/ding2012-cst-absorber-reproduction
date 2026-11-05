@@ -1,0 +1,28 @@
+{
+  "name": "FR4_80layer_mid35_50_5GHz_screen",
+  "screening": true,
+  "mode_count": 50,
+  "first_diffraction_GHz": 41.63784138888889,
+  "samples": 4,
+  "min_A": 0.9611415685806578,
+  "min_A_frequency_GHz": 50.0,
+  "max_copolar_S11_dB": -17.783620161830893,
+  "max_higher_reflection": 0.034639920477852644,
+  "max_T": 0.0,
+  "bands": [],
+  "best": null,
+  "screening_points_pass": true,
+  "full_5_40_pass": null,
+  "power_sanity": true,
+  "mesh_converged": true,
+  "broadband_converged": false,
+  "mesh_cells": 38756,
+  "last_delta_S": 0.00689952,
+  "solver_errors": [],
+  "warning_count": 2,
+  "at_5": null,
+  "at_40": [
+    0.99299249656165,
+    -21.580130070256956
+  ]
+}

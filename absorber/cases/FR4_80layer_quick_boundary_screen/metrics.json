@@ -1,0 +1,31 @@
+{
+  "name": "FR4_80layer_quick_boundary_screen",
+  "screening": true,
+  "mode_count": 50,
+  "first_diffraction_GHz": 41.63784138888889,
+  "samples": 26,
+  "min_A": 0.0037961053480042306,
+  "min_A_frequency_GHz": 1.0,
+  "max_copolar_S11_dB": -0.01651764732564676,
+  "max_higher_reflection": 0.11829967428718223,
+  "max_T": 0.0,
+  "bands": [],
+  "best": null,
+  "screening_points_pass": false,
+  "full_5_40_pass": null,
+  "power_sanity": true,
+  "mesh_converged": false,
+  "broadband_converged": false,
+  "mesh_cells": 52125,
+  "last_delta_S": null,
+  "solver_errors": [],
+  "warning_count": 3,
+  "at_5": [
+    0.02088381668683359,
+    -0.09165771703932718
+  ],
+  "at_40": [
+    0.9822545572538017,
+    -17.821031821342753
+  ]
+}
